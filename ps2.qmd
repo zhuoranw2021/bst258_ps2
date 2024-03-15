@@ -1,0 +1,72 @@
+---
+title: "Problem Set #2"
+subtitle: "BST 258: Causal Inference -- Theory and Practice"
+author: "Joanne Wei"
+date: "03/15/2024"
+format:
+  pdf:
+    documentclass: scrartcl
+    papersize: letter
+    fontsize: 12pt
+    geometry:
+      - margin=1in
+      - heightrounded
+    number-sections: false
+    colorlinks: true
+    link-citations: true
+    callout-appearance: simple
+    callout-icon: false
+    # figure options
+    fig-width: 6
+    fig-asp: 0.618
+    fig-cap-location: bottom
+    # code block options
+    code-line-numbers: false
+    code-block-bg: false
+    highlight-style: nord
+bibliography: refs.bib
+---
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+#| label: global-setup
+# NOTE: The immediately following line loads an renv environment located at the
+#       nearest "top-level" directory, as marked by a `.here` file, which is
+#       located by the here::here() function. This would be a useful tool if,
+#       say, this template.qmd file was not located at the top-level directory.
+#       Here, renv should activate automatically when this file is opened.
+#renv::load(here::here())
+library(here)
+library(FSM)
+library(ggplot2)
+library(tidyr)
+library(dplyr)
+```
+
+## Question 1
+
+
+
+## Question 2
+
+### (a)
+
+:::{.callout-note title="Answer"}
+
+:::
+
+
+{{< pagebreak >}}
+
+
+
+
+
+
+
+
+
+
+
